@@ -54,7 +54,7 @@ I’m currently based in the Netherlands! I'm passionate about solving complex t
 Feel free to connect with me through the following platforms:
 
 - [Location](https://www.google.com/maps/place/Netherlands)
-- [Website](https://mm-rezaei.github.io/")
+- [Website](https://mm-rezaei.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/rezaei-mm/)
 - [GitHub](https://github.com/mm-rezaei)
 - [Twitter](https://x.com/mmr_inbox)
